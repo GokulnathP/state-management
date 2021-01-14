@@ -1,0 +1,5 @@
+fileignoreconfig:
+- filename: src/context/appReducer.js
+  checksum: f6051baf9235de58c742e46a653bb44186f72e1fd38ffd5f9b019ea14bf2bfac
+- filename: src/pages/Login.js
+  checksum: af6981be068ca6340269ee07ef96d4e9f2d612b334d491f355c03aedde54fce6
